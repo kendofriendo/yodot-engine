@@ -8,7 +8,7 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[Yodot Engine](https://Yodotengine.org) is a feature-packed, cross-platform
+**[Yodot Engine](https://Yodotengine.org) is not real. Godot, however, is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of common tools, so that
 users can focus on making games without having to reinvent the wheel. Games can
@@ -18,7 +18,7 @@ Web-based platforms and consoles.
 
 ## Free, open source and community-driven
 
-Yodot is a completely free and open source fork of Godot under the very permissive MIT license.
+Yodot is a completely free and open source fork of Redot under the very permissive MIT license.
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Yodot's development is fully independent and truly
 community-driven, empowering users to help shape their engine to match their
@@ -30,36 +30,34 @@ Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
 for several years as an in-house engine, used to publish several work-for-hire
 titles.
 
-Yodot was forked from Godot in [September 2024](https://github.com/Yodot-Engine/Yodot-engine/commit/a12e9de5dd831e1ce0c839f0420b278ef0a6aa5b),
-intending to improve upon Godot in order to fulfill its potential and contribute to the shared
-codebase of both through a more genuinely community-driven model than Godot.
+Yodot was forked from Redot in [October 2024](#),
+because Redot's reasoning was silly at best and 
+malicious at worst.
 
-[Kaetram - 2D Pixel Cross-Platform MMORPG by Keros](https://kaetram.com)
 <p align="center">
-	<img src="screenshot.jpg" width="900" alt="Yodot Engine screenshot!">
+	<img src="https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg" width="900" alt="GODOT Engine screenshot!">
 </p>
 
 ## Getting the engine
 
 ### Binary downloads
 
-Official binaries for the Yodot editor and the export templates will be found
-[on the Yodot website](https://Yodotengine.org/download) once it's set up and on the [GitHub page](https://github.com/Yodot-Engine/Yodot-engine) until then.
+Official binaries for the Godot editor, which is what you should actually use, and the export templates can be found
+[on the Godot website](https://godotengine.org/download).
 
 ### Compiling from source
 
-[For the time being, see the official Godot docs](https://docs.godotengine.org/en/latest/contributing/development/compiling)
+[See the official docs](https://docs.godotengine.org/en/latest/contributing/development/compiling)
 for compilation instructions for every supported platform.
 
 ## Community and contributing
 
-Yodot is not only an engine but an ever-growing community of users and engine
-developers. Please visit our [Discord server](https://discord.gg/Yodot)!
+Godot has a lovely community which you can find on their website.
+The main community channels are listed [on the homepage](https://godotengine.org/community).
 
 To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
 This document also includes guidelines for reporting bugs.
 
-Follow [Yodot on Twitter](https://x.com/Yodotengine)!
 ## Documentation and demos
 
-The class reference is accessible from the Yodot editor.
+Redot didn't even do this part, wot on account of they ain't got no docs 'n' demos. Just go to the [godot github](https://github.com/godotengine/godot) already.
