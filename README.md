@@ -61,3 +61,5 @@ This document also includes guidelines for reporting bugs.
 ## Documentation and demos
 
 Redot didn't even do this part, wot on account of they ain't got no docs 'n' demos. Just go to the [godot github](https://github.com/godotengine/godot) already.
+
+<i>“Happy are they that hear their detractions, and can put them to mending.”</i>
