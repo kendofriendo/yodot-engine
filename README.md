@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://Yodotengine.org/">
-    <img src="logo_outlined.png" width="400" alt="Yodot Engine logo">
+    <img src="logo.svg" width="400" alt="Yodot Engine logo">
   </a>
 </p>
 
