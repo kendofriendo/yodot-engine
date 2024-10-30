@@ -1,14 +1,14 @@
-# Redot Engine
+# Yodot Engine
 
 <p align="center">
-  <a href="https://redotengine.org/">
-    <img src="logo_outlined.png" width="400" alt="Redot Engine logo">
+  <a href="https://Yodotengine.org/">
+    <img src="logo_outlined.png" width="400" alt="Yodot Engine logo">
   </a>
 </p>
 
 ## 2D and 3D cross-platform game engine
 
-**[Redot Engine](https://redotengine.org) is a feature-packed, cross-platform
+**[Yodot Engine](https://Yodotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of common tools, so that
 users can focus on making games without having to reinvent the wheel. Games can
@@ -18,9 +18,9 @@ Web-based platforms and consoles.
 
 ## Free, open source and community-driven
 
-Redot is a completely free and open source fork of Godot under the very permissive MIT license.
+Yodot is a completely free and open source fork of Godot under the very permissive MIT license.
 No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Redot's development is fully independent and truly
+to the last line of engine code. Yodot's development is fully independent and truly
 community-driven, empowering users to help shape their engine to match their
 expectations.
 
@@ -30,21 +30,21 @@ Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
 for several years as an in-house engine, used to publish several work-for-hire
 titles.
 
-Redot was forked from Godot in [September 2024](https://github.com/Redot-Engine/redot-engine/commit/a12e9de5dd831e1ce0c839f0420b278ef0a6aa5b),
+Yodot was forked from Godot in [September 2024](https://github.com/Yodot-Engine/Yodot-engine/commit/a12e9de5dd831e1ce0c839f0420b278ef0a6aa5b),
 intending to improve upon Godot in order to fulfill its potential and contribute to the shared
 codebase of both through a more genuinely community-driven model than Godot.
 
 [Kaetram - 2D Pixel Cross-Platform MMORPG by Keros](https://kaetram.com)
 <p align="center">
-	<img src="screenshot.jpg" width="900" alt="Redot Engine screenshot!">
+	<img src="screenshot.jpg" width="900" alt="Yodot Engine screenshot!">
 </p>
 
 ## Getting the engine
 
 ### Binary downloads
 
-Official binaries for the Redot editor and the export templates will be found
-[on the Redot website](https://redotengine.org/download) once it's set up and on the [GitHub page](https://github.com/Redot-Engine/redot-engine) until then.
+Official binaries for the Yodot editor and the export templates will be found
+[on the Yodot website](https://Yodotengine.org/download) once it's set up and on the [GitHub page](https://github.com/Yodot-Engine/Yodot-engine) until then.
 
 ### Compiling from source
 
@@ -53,13 +53,13 @@ for compilation instructions for every supported platform.
 
 ## Community and contributing
 
-Redot is not only an engine but an ever-growing community of users and engine
-developers. Please visit our [Discord server](https://discord.gg/redot)!
+Yodot is not only an engine but an ever-growing community of users and engine
+developers. Please visit our [Discord server](https://discord.gg/Yodot)!
 
 To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
 This document also includes guidelines for reporting bugs.
 
-Follow [Redot on Twitter](https://x.com/redotengine)!
+Follow [Yodot on Twitter](https://x.com/Yodotengine)!
 ## Documentation and demos
 
-The class reference is accessible from the Redot editor.
+The class reference is accessible from the Yodot editor.
